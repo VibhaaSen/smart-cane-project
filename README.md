@@ -19,3 +19,8 @@ Tinkercad used to validate logic and wiring before hardware implementation.
 - firmware/ → Arduino code
 - simulation/ → Tinkercad files + link
 - images/ → circuit diagrams and screenshots
+
+  ## Design Decisions
+- Used ultrasonic sensor for low-cost distance detection
+- Vibration motor chosen for non-visual feedback
+- Simulation used to validate logic before hardware testing
